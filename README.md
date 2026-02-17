@@ -12,6 +12,11 @@
    * Open - Opening price of the day
    * Volume - number of shares traded-bought and sold
   *NOTE*- Prices are in *USD*
+### Data Cleaning:
+- Date Column Conversion: The 'Date' column was successfully converted to datetime format. No invalid dates were found or removed, indicating a clean date column.
+- Missing Values: There were no missing values identified across any columns in the dataset.
+- Duplicate Rows: No duplicate rows were found in the dataset, ensuring data uniqueness.
+
 ## EDA
 
 
